@@ -1,0 +1,1 @@
+puts "Comienzo de aplicación para Emprendedor 1 en Desafío de Rentabilidad"
